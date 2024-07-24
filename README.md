@@ -10,6 +10,8 @@ Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
+ZERO IMAGE WORDPRESS plugin can be found in the month of July 2024 Exclusively at Envato Market and will be licensed only on Envato Market.
+
 WordPress ZERO external images content for WordPress end WooCommerce or Wpbakery, Elementor, Slider Revolution and many others. Add External Links art ".jpg, .jpeg, .png .svg, .ico .mp4, .gif, .mp3, .pdf, .webp, .video "
 With each transformed external image, you help your web page and visitors to manage the web page much more easily
 With each image transformed externally with Wordpress plugins ZERO - "Zero Image Wordpress" Guarantees much more speed on https://pagespeed.web.dev/

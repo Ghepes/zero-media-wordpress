@@ -1,5 +1,5 @@
-# External image replacer wromo
-=== External Image Replacer Wromo ===
+# Zero Image Wordpress
+=== Zero Image Wordpress ===
 Contributors: Ghepes, Studio Wromo
 Tags: image total replacer, WordPress images content cdn, revslider image replacer WordPress, js_composer images replacer, woocommerce products images replacer
 Version 1.9.0
@@ -12,11 +12,11 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 WordPress ZERO external images content for WordPress end WooCommerce or Wpbakery, Elementor, Slider Revolution and many others. Add External Links art ".jpg, .jpeg, .png .svg, .ico .mp4, .gif, .mp3, .pdf, .webp, .video "
 With each transformed external image, you help your web page and visitors to manage the web page much more easily
-With each image transformed externally with Wordpress plugins ZERO - "External Image Replacer Wromo" Guarantees much more speed on https://pagespeed.web.dev/
+With each image transformed externally with Wordpress plugins ZERO - "Zero Image Wordpress" Guarantees much more speed on https://pagespeed.web.dev/
 
 == Description ==
 
-The "External Image Replacer Wromo" plugin is a powerful tool designed for WordPress websites. Its replacer to Zero images to all plugins theat ar us Media Librey in WordPress and WooCommerce.
+The "Zero Image Wordpress" plugin is a powerful tool designed for WordPress websites. Its replacer to Zero images to all plugins theat ar us Media Librey in WordPress and WooCommerce.
 
 ZERO IMAGE WORDPRESS - Allows replacing media library images with external images URLs and Replace all image to WordPress Media end olso from Elementor, WPBakery Page Builder, Slider Revolution and all other plugins to brings wordpress to Zero image, a new era of wordpress with spectacular speed of Zero image Wordpress, you can add the coolest images you want in CDNs form
 
@@ -26,7 +26,7 @@ This plugin offers a user-friendly interface that allows you to customize direct
 
 ## 🔥 What does this plugin offer?
 
-The "External Image Replacer Wromo" plugin offers the following features and benefits:
+The "Zero Image Wordpress" plugin offers the following features and benefits:
 
 1) Zero images in Media Library: The plugin replaces all the images in the Media Library with External Links images, ensuring that your website is free from any images.
 
@@ -37,7 +37,7 @@ The "External Image Replacer Wromo" plugin offers the following features and ben
 4) Quick Content Deletion: Removed the Links press the save buton and the old images appears.
 
 
-## 🛠️ HOW DOES "External Image Replacer Wromo" WORK?
+## 🛠️ HOW DOES "Zero Image Wordpress" WORK?
 It's rather simple really – CDN Links
 
 Generate image.svg => attachment External Links => end SAVE 
@@ -45,7 +45,7 @@ Generate image.svg => attachment External Links => end SAVE
 Happy end!
 
 ## 🔒 Friendly GDPR AND PRIVACY
-External Image Replacer Wromo plugin is GDPR compliant:
+Zero Image Wordpress plugin is GDPR compliant:
 - We do not store any visitor or user data.
 - We do not send any data to remote servers.
 - Our plugin is only used to change Links Media Images, WordPress and woocommerce products images.
@@ -62,7 +62,7 @@ e.g.
 
 1. Upload the plugin files to the `/wp-content/plugins` directory, or install the plugin through the WordPress plugins screen directly.
 1. Activate the plugin through the 'Plugins' screen in WordPress
-2. After successful installation and activation, WordPress will redirects you to the External Image Replacer Wromo landing page. 
+2. After successful installation and activation, WordPress will redirects you to the Zero Image Wordpress landing page. 
 
 == Frequently Asked Questions ==
 
@@ -83,11 +83,11 @@ Yes!
 
 = How can I report security bugs? =
 
-You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. [Report a security vulnerability.](https://github.com/ghepes/external-image-replacer-wromo/security/advisories/new)
+You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. [Report a security vulnerability.](https://github.com/ghepes/zero-image-wordpress/security/advisories/new)
 
 == Screenshots ==
-1. Featured provided by External Image Replacer Wromo
-2. How to External Image Replacer Wromo works.
+1. Featured provided by Zero Image Wordpress
+2. How to Zero Image Wordpress works.
 3. How to delete Links
 4. How to change images to External Links.
 5. How to change images to revslider images with external Links.

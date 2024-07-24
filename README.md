@@ -1,0 +1,2 @@
+# external image replacer wromo
+ Description: ZERO IMAGE WORDPRESS - Allows replacing media library images with external images URLs and Replace all image to WordPress Media end olso from Elementor, WPBakery Page Builder, Slider Revolution and all other plugins to brings wordpress to Zero image, a new era of wordpress with spectacular speed of Zero image Wordpress, you can add the coolest images you want in CDNs form

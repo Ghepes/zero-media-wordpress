@@ -1,28 +1,34 @@
 === Zero Image WordPress ===
+
 Contributors: wromostudio, ghepes, wromo
-Donate link: 
+
 Buy Now link: https://codecanyon.net/item/zero-image-wordpress
+
 Tags: plugin,replaces,all,images,media library,external links,cdn,zero image,wordpress,displays,external,links,dinamic,woocommerce,elementor,wpbakery,slider revolution
+
 Requires at least: 5.0
 Tested up to: 6.6
 Requires PHP: 5.6
 Stable tag: 5.4
+
+License ENVATO: http://themeforest.net/licenses
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Read more about licensing here: http://themeforest.net/licenses
 
 The plugin replaces all the images in the Media Library with External Links images, ensuring that your website is free from any images.
 
 == Description ==
-The plugin replaces all the images in the Media Library with External Links 'images video gif pdf svg png jpg ico zip', ensuring that your website is free from any 'images video gif pdf svg png jpg ico zip'.
+The plugin replaces all the images in the Media Library with External Links 'images video gif pdf svg png jpg jpeg ico zip mp3 mp4', ensuring that your website is free from any 'images video gif pdf svg png jpg ico zip'.
 
 The power of 'Zero Image WP' to change any video image or GIF in CDN external links, whether it's elementor or WPBakery and Slider Revolution Catapults a new wordpress visualization and the speed that can be reached equal to the website content.
 
-This plugin offers a user-friendly interface that allows you to customize directly in Media images, changes featured images to Zero Mode, and replaces all the images in the Media Library with External Links images.
+This plugin offers a user-friendly interface that allows you to customize directly in Media images, changes featured images to Zero Mode, and replaces all the images in the Media Library with External Links.
 The "Zero Image Wordpress" plugin offers the following features and benefits:
 
-Zero images in Media Library: The plugin replaces all the images in the Media Library with External Links images, ensuring that your website is free from any 'images video gif pdf svg png jpg ico zip'.
+Zero images in Media Library: The plugin replaces all the images in the Media Library with External Links images, ensuring that your website is free from any 'images video gif pdf svg png jpg jpeg ico zip mp3 mp4'.
 
-Customization Options: in Media Library, you can customize the images to Zero Mode, which replaces all the 'images video gif pdf svg png jpg ico zip' in the Media Library with External Links 'images video gif pdf svg png jpg ico'.
+Customization Options: in Media Library, you can customize the images to Zero Mode, which replaces all the 'images video gif pdf svg png jpg ico zip' in the Media Library with External Links 'images video gif pdf svg png jpg jpeg ico zip mp3 mp4'.
 
 Efficient Content Management: directly by images appears under the original images links, a new border appears and you can enter the External Links of the new images. After saving, a refresh is created and the External image appears under the original image.
 
@@ -54,7 +60,7 @@ The plugin change only images media with External Links images, it does not chan
 
 = What else can plugins change apart from images? =
 
-The plugin changes all links to everything in the Libre media WP.! It can be PDF, Video or GIF and even .ZIP File, you can combine it with other plugins to be able to accept other types of File and the Zero Image WP Plugin will change everything in the Media Library to external links.
+The plugin changes all links to everything in the Libre media WP.! It can be PDF, Video or GIF and even .ZIP File MP3 or MP4, you can combine it with other plugins to be able to accept other types of File and the Zero Image WP Plugin will change everything in the Media Library to external links.
 
 = Can this plugin be used with WordPress Multisite? =
 

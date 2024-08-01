@@ -1,29 +1,22 @@
-# Zero Image Wordpress
 === Zero Image Wordpress ===
 Contributors: Ghepes, Studio Wromo
 Tags: image total replacer, WordPress images content cdn, revslider image replacer WordPress, js_composer images replacer, woocommerce products images replacer
-Version 1.9.0
+Version 2.0.7
 Requires at least: 6.0
-Tested up to: 6.6.1
+Tested up to: 6.6
 Stable tag: trunk
 Requires PHP: 7.4
 License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://themeforest.net/licenses
+License Code URI: https://www.gnu.org/licenses/gpl-2.0.html
+Read more about licensing here: http://themeforest.net/licenses
 
-ZERO IMAGE WORDPRESS plugin can be found in the month of July 2024 Exclusively at Envato Market and will be licensed only on Envato Market.
-
-WordPress ZERO external images content for WordPress end WooCommerce or Wpbakery, Elementor, Slider Revolution and many others. Add External Links art ".jpg, .jpeg, .png .svg, .ico .mp4, .gif, .mp3, .pdf, .webp, .video "
-With each transformed external image, you help your web page and visitors to manage the web page much more easily
-With each image transformed externally with Wordpress plugins ZERO - "Zero Image Wordpress" Guarantees much more speed on https://pagespeed.web.dev/
-
+ZERO IMAGE WORDPRESS - WP Plugins License only on Envato
 == Description ==
 
 The "Zero Image Wordpress" plugin is a powerful tool designed for WordPress websites. Its replacer to Zero images to all plugins theat ar us Media Librey in WordPress and WooCommerce.
 
-ZERO IMAGE WORDPRESS - Allows replacing media library images with external images URLs and Replace all image to WordPress Media end olso from Elementor, WPBakery Page Builder, Slider Revolution and all other plugins to brings wordpress to Zero image, a new era of wordpress with spectacular speed of Zero image Wordpress, you can add the coolest images you want in CDNs form
-
 This plugin offers a user-friendly interface that allows you to customize directly in Media images, changes featured images to Zero Mode, and replaces all the images in the Media Library with External Links images.
-
 
 
 ## 🔥 What does this plugin offer?
@@ -42,11 +35,8 @@ The "Zero Image Wordpress" plugin offers the following features and benefits:
 ## 🛠️ HOW DOES "Zero Image Wordpress" WORK?
 It's rather simple really – CDN Links
 
-Generate image.svg => attachment External Links => end SAVE 
 
-Happy end!
-
-## 🔒 Friendly GDPR AND PRIVACY
+## 🔒 GDPR AND PRIVACY
 Zero Image Wordpress plugin is GDPR compliant:
 - We do not store any visitor or user data.
 - We do not send any data to remote servers.
@@ -54,7 +44,7 @@ Zero Image Wordpress plugin is GDPR compliant:
 
 > ## Note: This plugin is now compatible with PHP version 8. 
 
-✨ If you face any issue with your install, kindly raise a ticket so we can fix the issue. ✨
+✨ If you face any issue with your install, kindly raise a ticket so we can fix the issue ASAP. ✨
 
 == Installation ==
 
@@ -68,7 +58,9 @@ e.g.
 
 == Frequently Asked Questions ==
 
-= Can the dummy data be deleted after testing? =
+= Can the Zero Image Wordpress plugin be used with WordPress Multisite? =
+
+Yes!
 
 
 = Is this plugin compatible with PHP 8? =
@@ -98,31 +90,30 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 8. How to add images to Elementor images with external Links.
 
 == Changelog ==
-1.0.0 - Updated js to work with latest WordPress release 5.9 
-1.0.1 - Fix var match = text.match(/\<img.+src\=(?:\"|\')(.+?)(?:\"|\')(?:.+?)\>/)
-alert(match[1]);
+1.0.0 - Updated js to work with latest WordPress release 5.7 
+1.0.1 - Tested with WordPress release 5.8 and woocommerce 5.5.1 
 1.0.2 - Tested with WordPress release 5.8.1 - woocommerce 5.7.1 - PHP 8 
 1.0.3 - Fixed the features image missing extensions.
-1.3.0 - Re change adds functionality to generate URL variants for specified sizes and adds them to images' srcset attribute
-1.4.0 - includes fixes for handling dimensions and replacing URLs for images in all relevant locations
+1.3.0 - Tested with WordPress release 6.0 and woocommerce 6.5.1
+1.4.0 - Given option in posts generate form to enable/disable assigning terms to posts
 1.4.1 - Minor bug fixes and performance improvements.
-1.5.0 - Fixed modify the functions that handle image variants to ensure that the correct dimensions are applied to the external URL.
-1.6.0 - Fix issue with image URLs not displaying correctly, we need to adjust how the plugin generates URL variants for image sizes
+1.5.0 - Fixed the redirection issue when activated through WP CLI.
+1.6.0 - Added post type product to dropdown if woocommerce is not installed and post type "product" is created.
 1.7.0 - Comes with numerous notable enhancements to performance and security.
 1.7.1 - Adjusted to be compatible with the significant update release of WooCommerce and WordPress
-1.7.2 - Fix code pattern image
-1.7.3 - PHP code for the main plugin file (external-image-replacer.php)
+1.7.2 - Revised menu item labels for enhanced clarity of meaning.
+1.7.3 - Fixed the localization.
 1.7.4 - Minor changes and bug fixings.
-1.7.5 - Fixed of the code adds a get_attachment_id_from_url function to get the attachment ID from the URL and adjusts the function
+1.7.5 - Declared compatibility with woocommerce custom_order_tables
 1.7.6 - Minor bug fixing.
 1.7.7 - Security improvements.
 1.7.8 - Fixed the fetal error.
-1.7.9 - Made it compatible 7.4 to 8.3 php version.
+1.7.9 - Made it compatible 7.0 to 8.4 php version.
 1.8.0 - Media SVG Generated buton.
-1.8.1 - Resizing Fix URLs correct for image size variants
-1.8.2 - Fix Generate URLs for the specified sizes
+1.8.1 - Removed error for php version.
+1.8.2 - Fixed user data generation issue for firstname and last name.
 1.8.3 - Fixed the error in the plugin.
-1.8.4 - Add Evanto licensed plugin.
+1.8.4 - Evanto licensed plugin.
 1.8.5 - Fixed error Evanto
 1.8.6 - Add Generator SVG Media Library
 1.8.7 - Fixed error Generator SVG Media Library
@@ -130,4 +121,11 @@ alert(match[1]);
 1.8.9 - Fixed button Generated SVG Media
 1.9.0 - Fixed Button style SVG Generator
 2.0.0 - Fixed Adding the template.svg file
+2.0.1 - Fixed generator SVG file to generate the correct file
+2.0.2 - Fixed license evanto massege reppet 7x times
+2.0.3 - Fixed license evanto reconfigured
+2.0.4 - Fixed fatal error by installation
+2.0.5 - Fixed License
+2.0.6 - Major code fix
+2.0.7 - Only for Developer Version - is not to install
 == Upgrade Notice ==

@@ -91,6 +91,7 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 
 == Changelog ==
 1.0.0 - Updated js to work with latest WordPress release 5.7 
+
 1.0.1 - Tested with WordPress release 5.8 and woocommerce 5.5.1 
 1.0.2 - Tested with WordPress release 5.8.1 - woocommerce 5.7.1 - PHP 8 
 1.0.3 - Fixed the features image missing extensions.

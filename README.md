@@ -1,4 +1,5 @@
 === Zero Image Wordpress ===
+
 Contributors: Ghepes, Studio Wromo
 Tags: image total replacer, WordPress images content cdn, revslider image replacer WordPress, js_composer images replacer, woocommerce products images replacer
 

@@ -44,6 +44,7 @@ Quick Content Deletion: Removed the Links press the save buton and the old image
 
 
 == Frequently Asked Questions ==
+
 **What is Zero Image WordPress? **
 Zero Image WordPress is a brand-new plugins for the WordPress platform
 

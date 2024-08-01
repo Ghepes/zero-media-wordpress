@@ -45,7 +45,7 @@ The "Zero Image Wordpress" plugin offers the following features and benefits:
 
 
 ## 🛠️ HOW DOES "Zero Image Wordpress" WORK?
-It's rather simple really – CDN Links
+Customize the images to Links image  CDN – CDN Links
 
 
 ## 🔒 GDPR AND PRIVACY

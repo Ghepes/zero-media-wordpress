@@ -26,9 +26,9 @@ ZERO IMAGE WORDPRESS - WP Plugins License only on Envato
 
 == Description ==
 
-The "Zero Image Wordpress" plugin is a powerful tool designed for WordPress websites. Its replacer to Zero images to all plugins theat ar us Media Librey in WordPress and WooCommerce.
+The "Zero Image Wordpress" plugin is a powerful tool designed for WordPress websites. Its replacer to Zero images video or GIF whether theme or plugins theat change Media Librey into external links cdn for all WordPress and WooCommerce theme or plugins.
 
-This plugin offers a user-friendly interface that allows you to customize directly in Media images, changes featured images to Zero Mode, and replaces all the images in the Media Library with External Links images.
+This plugin offers a user-friendly interface that allows you to customize directly in Media images, changes featured images to Zero Mode, and replaces all the images in the Media Library with External Links images, whether it's elementor  WPBakery or Slider Revolution Next new visualization of wordpress and the speed that can be reached equal to the website content.
 
 
 ## 🔥 What does this plugin offer?

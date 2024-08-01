@@ -93,40 +93,77 @@ You can report security bugs through the Patchstack Vulnerability Disclosure Pro
 1.0.0 - Updated js to work with latest WordPress release 5.7 
 
 1.0.1 - Tested with WordPress release 5.8 and woocommerce 5.5.1 
+
 1.0.2 - Tested with WordPress release 5.8.1 - woocommerce 5.7.1 - PHP 8 
+
 1.0.3 - Fixed the features image missing extensions.
+
 1.3.0 - Tested with WordPress release 6.0 and woocommerce 6.5.1
+
 1.4.0 - Given option in posts generate form to enable/disable assigning terms to posts
+
 1.4.1 - Minor bug fixes and performance improvements.
+
 1.5.0 - Fixed the redirection issue when activated through WP CLI.
+
 1.6.0 - Added post type product to dropdown if woocommerce is not installed and post type "product" is created.
+
 1.7.0 - Comes with numerous notable enhancements to performance and security.
+
 1.7.1 - Adjusted to be compatible with the significant update release of WooCommerce and WordPress
+
 1.7.2 - Revised menu item labels for enhanced clarity of meaning.
+
 1.7.3 - Fixed the localization.
+
 1.7.4 - Minor changes and bug fixings.
+
 1.7.5 - Declared compatibility with woocommerce custom_order_tables
+
 1.7.6 - Minor bug fixing.
+
 1.7.7 - Security improvements.
+
 1.7.8 - Fixed the fetal error.
+
 1.7.9 - Made it compatible 7.0 to 8.4 php version.
+
 1.8.0 - Media SVG Generated buton.
+
 1.8.1 - Removed error for php version.
+
 1.8.2 - Fixed user data generation issue for firstname and last name.
+
 1.8.3 - Fixed the error in the plugin.
+
 1.8.4 - Evanto licensed plugin.
+
 1.8.5 - Fixed error Evanto
+
 1.8.6 - Add Generator SVG Media Library
+
 1.8.7 - Fixed error Generator SVG Media Library
+
 1.8.8 - Add js Button to Media Library for Generator SVG
+
 1.8.9 - Fixed button Generated SVG Media
+
 1.9.0 - Fixed Button style SVG Generator
+
 2.0.0 - Fixed Adding the template.svg file
+
 2.0.1 - Fixed generator SVG file to generate the correct file
+
 2.0.2 - Fixed license evanto massege reppet 7x times
+
 2.0.3 - Fixed license evanto reconfigured
+
 2.0.4 - Fixed fatal error by installation
+
 2.0.5 - Fixed License
+
 2.0.6 - Major code fix
+
 2.0.7 - Only for Developer Version - is not to install
+
 == Upgrade Notice ==

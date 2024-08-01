@@ -19,6 +19,7 @@ Read more about licensing here: http://themeforest.net/licenses
 The plugin replaces all the images in the Media Library with External Links images, ensuring that your website is free from any images.
 
 == Description ==
+
 The plugin replaces all the images in the Media Library with External Links 'images video gif pdf svg png jpg jpeg ico zip mp3 mp4', ensuring that your website is free from any 'images video gif pdf svg png jpg ico zip'.
 
 The power of 'Zero Image WP' to change any video image or GIF in CDN external links, whether it's elementor or WPBakery and Slider Revolution Catapults a new wordpress visualization and the speed that can be reached equal to the website content.

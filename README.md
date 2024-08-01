@@ -1,17 +1,28 @@
 === Zero Image Wordpress ===
 Contributors: Ghepes, Studio Wromo
 Tags: image total replacer, WordPress images content cdn, revslider image replacer WordPress, js_composer images replacer, woocommerce products images replacer
+
 Version 2.0.7
+
 Requires at least: 6.0
+
 Tested up to: 6.6
+
 Stable tag: trunk
+
 Requires PHP: 7.4
+
 License: GPLv2 or later
+
 License URI: http://themeforest.net/licenses
+
 License Code URI: https://www.gnu.org/licenses/gpl-2.0.html
+
 Read more about licensing here: http://themeforest.net/licenses
 
+
 ZERO IMAGE WORDPRESS - WP Plugins License only on Envato
+
 == Description ==
 
 The "Zero Image Wordpress" plugin is a powerful tool designed for WordPress websites. Its replacer to Zero images to all plugins theat ar us Media Librey in WordPress and WooCommerce.

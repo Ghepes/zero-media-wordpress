@@ -1,10 +1,9 @@
 === Zero Image WordPress ===
 
 Contributors: wromostudio, ghepes, wromo
-
 Buy Now link: https://codecanyon.net/item/zero-image-wordpress
 
-Tags: plugin,replaces,all,images,media library,external links,cdn,zero image,wordpress,displays,external,links,dinamic,woocommerce,elementor,wpbakery,slider revolution
+Tags: plugin, replaces, images, media library, external links, cdn, zero image, wordpress, displays, external, links, dynamic, woocommerce, elementor, wpbakery, slider revolution
 
 Requires at least: 5.0
 Tested up to: 6.6
@@ -16,202 +15,91 @@ License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Read more about licensing here: http://themeforest.net/licenses
 
-The plugin replaces all the images in the Media Library with External Links images, ensuring that your website is free from any images.
+Implement a comprehensive solution for replacing all media types in WordPress with external media URLs, fully supporting popular page builders and plugins such as Elementor, WPBakery Page Builder, and Slider Revolution. This innovative approach transforms your WordPress site into a zero-media webpage, leveraging external CDN links to seamlessly integrate high-quality media content. Enhance your business website by embedding the most impressive media via URL links, optimizing performance and resource management.
 
 == Description ==
 
-The plugin replaces all the images in the Media Library with External Links 'images video gif pdf svg png jpg jpeg ico zip mp3 mp4', ensuring that your website is free from any 'images video gif pdf svg png jpg ico zip'.
+The plugin replaces all media in the Media Library with external links, including images, videos, GIFs, PDFs, SVGs, PNGs, JPGs, JPEGs, ICOs, ZIPs, MP3s, and MP4s. This ensures your website is free from locally stored media.
 
-The power of 'Zero Image WP' to change any video image or GIF in CDN external links, whether it's elementor or WPBakery and Slider Revolution Catapults a new wordpress visualization and the speed that can be reached equal to the website content.
+"Zero Image WP" dynamically changes any video, image, or GIF to CDN external links. Whether using Elementor, WPBakery, or Slider Revolution, this plugin catapults WordPress visualization and performance to new heights.
 
-This plugin offers a user-friendly interface that allows you to customize directly in Media images, changes featured images to Zero Mode, and replaces all the images in the Media Library with External Links.
-The "Zero Image Wordpress" plugin offers the following features and benefits:
-
-Zero images in Media Library: The plugin replaces all the images in the Media Library with External Links images, ensuring that your website is free from any 'images video gif pdf svg png jpg jpeg ico zip mp3 mp4'.
-
-Customization Options: in Media Library, you can customize the images to Zero Mode, which replaces all the 'images video gif pdf svg png jpg ico zip' in the Media Library with External Links 'images video gif pdf svg png jpg jpeg ico zip mp3 mp4'.
-
-Efficient Content Management: directly by images appears under the original images links, a new border appears and you can enter the External Links of the new images. After saving, a refresh is created and the External image appears under the original image.
-
-Quick Content Deletion: Removed the Links press the save buton and the old images appears.
-
+Key Features:
+- **Zero Media in Library**: Replaces all media in the library with external links, ensuring your site is devoid of local media files.
+- **Customization Options**: Customize media directly in the library, switch to Zero Mode, and replace all local media with external links.
+- **Efficient Content Management**: Add external links directly under the original media, refresh, and see the external media displayed.
+- **Quick Content Deletion**: Remove links and revert to original media with a simple save action.
 
 == Installation ==
-1. Unzip the plugin archive on your computer
-2. Upload `zero-image-wordpress` directory to yours `/wp-content/plugins/` directory
-3. Activate the plugin through the 'Plugins' menu in WordPress
-4. After successful installation and activation, WordPress will redirects you to the Zero Image Wordpress landing page.
-
+1. Unzip the plugin archive on your computer.
+2. Upload `zero-image-wordpress` directory to your `/wp-content/plugins/` directory.
+3. Activate the plugin through the 'Plugins' menu in WordPress.
+4. After installation, WordPress redirects you to the Zero Image WordPress landing page.
 
 == Frequently Asked Questions ==
 
-**What is Zero Image WordPress? **
-Zero Image WordPress is a brand-new plugins for the WordPress platform
+**What is Zero Image WordPress?**
+Zero Image WordPress is a new plugin for the WordPress platform that replaces local media with external links.
 
-= Can the Zero Image Wordpress plugin be used with WordPress Multisite? =
-
+**Can the Zero Image WordPress plugin be used with WordPress Multisite?**
 Yes!
 
-= Is this plugin compatible with PHP 8? =
-
+**Is this plugin compatible with PHP 8?**
 Yes!
 
-= Is it safe to use this plugin on a live website? =
+**Is it safe to use this plugin on a live website?**
+Yes, the plugin only changes media links to external sources without altering your website content.
 
-The plugin change only images media with External Links images, it does not change the content of your website.
+**What else can the plugin change apart from images?**
+The plugin can replace all media in the library, including PDFs, videos, GIFs, ZIP files, MP3s, and MP4s.
 
-= What else can plugins change apart from images? =
-
-The plugin changes all links to everything in the Libre media WP.! It can be PDF, Video or GIF and even .ZIP File MP3 or MP4, you can combine it with other plugins to be able to accept other types of File and the Zero Image WP Plugin will change everything in the Media Library to external links.
-
-= Can this plugin be used with WordPress Multisite? =
-
-Yes!
-
-= How can I report security bugs? =
-
-You can report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team help validate, triage and handle any security vulnerabilities. Report a security vulnerability.
-
+**How can I report security bugs?**
+Report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team will help validate, triage, and handle any security vulnerabilities.
 
 == Screenshots ==
 
-
 == Changelog ==
-= 1.0 =
-* Initial release.
-= 1.0.1 = 
-* Tested with WordPress release 5.8 and woocommerce 5.5.1
-
-= 1.0.2 = 
-* Tested with WordPress release 5.8.1 - woocommerce 5.7.1 - PHP 8
-
-= 1.0.3 = 
-* Fixed the features image missing extensions.
-
-= 1.2.0 = 
-* Tested with WordPress release 6.0 and woocommerce 6.5.1
-
-= 1.2.0 =
-* Given option add external links assigning to Media Library.
-
-= 1.3.0 = 
-* Minor bug fixes external links assigning to Media Library.
-
-= 1.4.0 =
-* Fixed the links issue when activated buton Media Library.
-
-= 1.5.0 =
-* Fix bug external link image not replace all name image to .png or .jpg files by Media Library.
-
-= 1.6.0 =
-* Added SVG generator to Media Library.
-
-= 1.6.1 =
-* Fix SVG generator to Media Library.
-
-= 1.6.2 =
-* Change SVG generator to Media Library.
-
-= 1.6.3 =
-* Add SVG Buton to generator by Media Library.
-
-= 1.6.4 =
-* Add JS end css code for SVG Buton to generator by Media Library.
-
-= 1.6.5 =
-* Fix error woocommerce image sizes.
-
-= 1.7.0 =
-* Add numerous notable enhancements to performance to all media plugins and security.
-
-= 1.7.1 =
-* Adjusted to be compatible with the significant update release of WooCommerce and WordPress
-
-= 1.7.2 =
-* Revised info admin menu labels to enhanced info plugins pages for clarity of meaning.
-
-= 1.7.3 =
-* Fixed the CSS Media Library buton.
-
-= 1.7.4 =
-* Minor changes and bug fixings.
-
-= 1.7.5 =
-* Fix compatibility with all plugins or media.
-
-= 1.7.6 =
-* Minor bug fixing.
-
-= 1.7.7 =
-* Security improvements.
-
-= 1.7.8 =
-* Fixed the fetal error.
-
-= 1.7.9 =
-* Made it compatible 7.0 to 8.4 php version.
-
-= 1.8.0 =
-* Media SVG Generated buton standard.
-
-= 1.8.1 =
-* Removed error for php version.
-
-= 1.8.2 =
-* Fixed user data generation issue for change name image.
-
-= 1.8.3 =
-* Add info image to info page plugins.
-
-= 1.8.4 =
-* Evanto licensed plugin.
-
-= 1.8.5 = 
-* Fixed error Evanto license.
-
-= 1.8.6 =
-* Watermarking: Embed unique identifiers in the plugin files
-
-= 1.8.7 =
-* Callback Verification: The plugin can be designed to call back to your server to verify the license and functionality periodically.
-
-= 1.8.8 =
-* Add js Button to Media Library for Generator SVG
-
-= 1.8.9 =
-* Fixed button Generated SVG Media
-
-= 1.9.0 =
-* Fixed Button style SVG Generator.
-
-= 2.0.0 =
-* Fixed template svg file.
-
-= 2.0.1 =
-* Fixed generator SVG file to generate the correct file.
-
-= 2.0.2 =
-* Fixed license evanto massege reppet 7x times.
-
-= 2.0.3 =
-* Fixed license evanto reconfigured.
-
-= 2.0.4 =
-* Fixed fatal error by installation.
-
-= 2.0.5 =
-* Fixed License.
-
-= 2.0.6 =
-* Major code fix.
-
-= 2.0.7 =
-* Only for Developer Version - is not public to install.
-
-= 2.0.8 =
-* Fix license 'for' error
-
-
-
-== Upgrade Notice ==
-A new version is here with a new improved version for you. Upgrade now!
+= 1.0 = Initial release.
+= 1.0.1 = Tested with WordPress 5.8 and WooCommerce 5.5.1.
+= 1.0.2 = Tested with WordPress 5.8.1, WooCommerce 5.7.1, PHP 8.
+= 1.0.3 = Fixed missing image extensions.
+= 1.2.0 = Tested with WordPress 6.0 and WooCommerce 6.5.1.
+= 1.2.1 = Added option to add external links to Media Library.
+= 1.3.0 = Minor bug fixes for external links in Media Library.
+= 1.4.0 = Fixed link issue on activation in Media Library.
+= 1.5.0 = Fixed bug replacing image names with .png or .jpg in Media Library.
+= 1.6.0 = Added SVG generator to Media Library.
+= 1.6.1 = Fixed SVG generator issues.
+= 1.6.2 = Updated SVG generator functionality.
+= 1.6.3 = Added SVG button generator to Media Library.
+= 1.6.4 = Added JS and CSS for SVG button generator.
+= 1.6.5 = Fixed WooCommerce image size errors.
+= 1.7.0 = Enhanced performance and security.
+= 1.7.1 = Adjusted for compatibility with latest WooCommerce and WordPress updates.
+= 1.7.2 = Revised admin menu labels for clarity.
+= 1.7.3 = Fixed Media Library CSS button issues.
+= 1.7.4 = Minor bug fixes.
+= 1.7.5 = Improved compatibility with all plugins and media.
+= 1.7.6 = Minor bug fixes.
+= 1.7.7 = Security improvements.
+= 1.7.8 = Fixed fatal errors.
+= 1.7.9 = Made compatible with PHP versions 7.0 to 8.4.
+= 1.8.0 = Standardized SVG button generator in Media Library.
+= 1.8.1 = Removed PHP version errors.
+= 1.8.2 = Fixed user data generation issues for image name changes.
+= 1.8.3 = Added info image to plugin info page.
+= 1.8.4 = Evanto licensed plugin.
+= 1.8.5 = Fixed Evanto license errors.
+= 1.8.6 = Added watermarking for unique identifiers in plugin files.
+= 1.8.7 = Implemented callback verification for periodic license and functionality checks.
+= 1.8.8 = Added JS button for SVG generator in Media Library.
+= 1.8.9 = Fixed SVG generator button issues.
+= 1.9.0 = Fixed SVG generator button styles.
+= 2.0.0 = Fixed SVG template file issues.
+= 2.0.1 = Corrected SVG file generation.
+= 2.0.2 = Fixed repetitive Evanto license messages.
+= 2.0.3 = Reconfigured Evanto license.
+= 2.0.4 = Fixed installation fatal errors.
+= 2.0.5 = Fixed license issues.
+= 2.0.6 = Major code fixes.
+= 2.0.7 = Developer version, not for public installation.
+= 2.0.8 = Fixed 'for' license error.

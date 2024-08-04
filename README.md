@@ -1,9 +1,9 @@
-=== Zero Image WordPress ===
+=== Zero Media WordPress ===
 
 Contributors: wromostudio, ghepes, wromo
-Buy Now link: https://codecanyon.net/item/zero-image-wordpress
+Buy Now link: https://codecanyon.net/item/zero-media-wordpress
 
-Tags: plugin, replaces, images, media library, external links, cdn, zero image, wordpress, displays, external, links, dynamic, woocommerce, elementor, wpbakery, slider revolution
+Tags: plugin, replaces, images, media library, external links, cdn, zero image, video, mp3, gif, svg, wordpress, displays, external, links, dynamic, woocommerce, elementor, wpbakery, slider revolution
 
 Requires at least: 5.0
 Tested up to: 6.6
@@ -15,13 +15,14 @@ License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Read more about licensing here: http://themeforest.net/licenses
 
+
 Implement a comprehensive solution for replacing all media types in WordPress with external media URLs, fully supporting popular page builders and plugins such as Elementor, WPBakery Page Builder, and Slider Revolution. This innovative approach transforms your WordPress site into a zero-media webpage, leveraging external CDN links to seamlessly integrate high-quality media content. Enhance your business website by embedding the most impressive media via URL links, optimizing performance and resource management.
 
 == Description ==
 
 The plugin replaces all media in the Media Library with external links, including images, videos, GIFs, PDFs, SVGs, PNGs, JPGs, JPEGs, ICOs, ZIPs, MP3s, and MP4s. This ensures your website is free from locally stored media.
 
-"Zero Image WP" dynamically changes any video, image, or GIF to CDN external links. Whether using Elementor, WPBakery, or Slider Revolution, this plugin catapults WordPress visualization and performance to new heights.
+"Zero Media WP" dynamically changes any video, image, or GIF to CDN external links. Whether using Elementor, WPBakery, or Slider Revolution, this plugin catapults WordPress visualization and performance to new heights.
 
 Key Features:
 - **Zero Media in Library**: Replaces all media in the library with external links, ensuring your site is devoid of local media files.
@@ -31,16 +32,16 @@ Key Features:
 
 == Installation ==
 1. Unzip the plugin archive on your computer.
-2. Upload `zero-image-wordpress` directory to your `/wp-content/plugins/` directory.
+2. Upload `zero-media-wordpress` directory to your `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
-4. After installation, WordPress redirects you to the Zero Image WordPress landing page.
+4. After installation, WordPress redirects you to the Zero Media WordPress landing page.
 
 == Frequently Asked Questions ==
 
-**What is Zero Image WordPress?**
-Zero Image WordPress is a new plugin for the WordPress platform that replaces local media with external links.
+**What is Zero Media WordPress?**
+Zero Media WordPress is a new plugin for the WordPress platform that replaces local media with external links.
 
-**Can the Zero Image WordPress plugin be used with WordPress Multisite?**
+**Can the Zero Media WordPress plugin be used with WordPress Multisite?**
 Yes!
 
 **Is this plugin compatible with PHP 8?**
@@ -103,3 +104,4 @@ Report security bugs through the Patchstack Vulnerability Disclosure Program. Th
 = 2.0.6 = Major code fixes.
 = 2.0.7 = Developer version, not for public installation.
 = 2.0.8 = Fixed 'for' license error.
+

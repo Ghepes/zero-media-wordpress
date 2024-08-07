@@ -2,8 +2,8 @@
  * Documenter 2.0
  * http://rxa.li/documenter
  *
- * Copyright 2024, Wromo
- * http://wromo.com
+ * Copyright 2024, Studio Wromo
+ * http://revaxarts.com
  *
  */
 
@@ -77,8 +77,8 @@ noscript p{width:800px;font-size:20px;padding-top:20px;margin:0 auto;color:#4D4D
 #documenter_content table th{font-weight:700;}
 #documenter_content table th, #documenter_content table td{padding:7px;text-align:left;}
 #documenter_content code{font-family:"Courier New", Courier, monospace;padding: 0 6px 0 6px;color:red;background: #fff;}
-#documenter_content .warning{padding:10px 10px 10px 30px;border:1px solid #D5D458;background-color:#F0FEB1;background-image:url(img/warning.png);background-repeat:no-repeat;background-position: 8px 11px;}
-#documenter_content .info{padding:10px 10px 10px 30px;border:1px solid #6AB3FF;background-color:#A3D0FF;background-image:url(img/info.png);background-repeat:no-repeat;background-position: 8px 11px;}
+#documenter_content .warning{padding:10px 10px 10px 30px;border:1px solid #D5D458;background-color:#F0FEB1;background-image:url(https://raw.githubusercontent.com/Ghepes/zero-media-wordpress/main/docs/css/img/warning.png);background-repeat:no-repeat;background-position: 8px 11px;}
+#documenter_content .info{padding:10px 10px 10px 30px;border:1px solid #6AB3FF;background-color:#A3D0FF;background-image:url(https://raw.githubusercontent.com/Ghepes/zero-media-wordpress/main/docs/css/img/info.png);background-repeat:no-repeat;background-position: 8px 11px;}
 #documenter_content div.alert {padding: 8px 35px 8px 14px;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);background-color: #fcf8e3;border: 1px solid #fbeed5;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;}
 #documenter_content div.alert-success,#documenter_content  div.alert-success div.alert-heading {color: #468847;}
 #documenter_content div.alert-danger,#documenter_content  div.alert-error { background-color: #f2dede; border-color: #eed3d7;}
@@ -155,6 +155,6 @@ img.center {border-radius:15px;border:3px outset #eee;margin:32px;background: #e
 	#documenter_sidebar #documenter_copyright{display:none;}
 	#documenter_content{left:10px;}
 	#welcome{margin-bottom:300px;}
-	#documenter_content .warning{background-image:url(imgs/warning.png) !important;background-repeat:no-repeat !important;background-position: 8px 11px !important;}
+	#documenter_content .warning{background-image:url(https://raw.githubusercontent.com/Ghepes/zero-media-wordpress/main/docs/css/img/warning.png) !important;background-repeat:no-repeat !important;background-position: 8px 11px !important;}
 	#documenter_content .info{background-image:url(imgs/info.png) !important;background-repeat:no-repeat !important;background-position: 8px 11px !important;}
 }

@@ -2,8 +2,8 @@
  * Documenter 2.0
  * https://evp.to/documenter
  *
- * Copyright 2011, Xaver Birsak
- * https://revaxarts.com
+ * Copyright 2024, Wromo
+ * https://wromo.com
  *
  */
 

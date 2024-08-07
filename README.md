@@ -87,15 +87,15 @@ Report security bugs through the Patchstack Vulnerability Disclosure Program. Th
 
 = 1.5.0 = Fixed bug replacing image names with .png or .jpg in Media Library.
 
-= 1.6.0 = Added SVG generator to Media Library.
+= 1.6.0 = Added Bridge generator to Media Library.
 
-= 1.6.1 = Fixed SVG generator issues.
+= 1.6.1 = Fixed Bridge generator issues.
 
-= 1.6.2 = Updated SVG generator functionality.
+= 1.6.2 = Updated Bridge generator functionality.
 
-= 1.6.3 = Added SVG button generator to Media Library.
+= 1.6.3 = Added Bridge button generator to Media Library.
 
-= 1.6.4 = Added JS and CSS for SVG button generator.
+= 1.6.4 = Added JS and CSS for Bridge button generator.
 
 = 1.6.5 = Fixed WooCommerce image size errors.
 
@@ -119,7 +119,7 @@ Report security bugs through the Patchstack Vulnerability Disclosure Program. Th
 
 = 1.7.9 = Made compatible with PHP versions 7.0 to 8.4.
 
-= 1.8.0 = Standardized SVG button generator in Media Library.
+= 1.8.0 = Standardized Bridge button generator in Media Library.
 
 = 1.8.1 = Removed PHP version errors.
 
@@ -135,15 +135,15 @@ Report security bugs through the Patchstack Vulnerability Disclosure Program. Th
 
 = 1.8.7 = Implemented callback verification for periodic license and functionality checks.
 
-= 1.8.8 = Added JS button for SVG generator in Media Library.
+= 1.8.8 = Added JS button for Bridge generator in Media Library.
 
-= 1.8.9 = Fixed SVG generator button issues.
+= 1.8.9 = Fixed Bridge generator button issues.
 
-= 1.9.0 = Fixed SVG generator button styles.
+= 1.9.0 = Fixed Bridge generator button styles.
 
-= 2.0.0 = Fixed SVG template file issues.
+= 2.0.0 = Fixed Bridge template file issues.
 
-= 2.0.1 = Corrected SVG file generation.
+= 2.0.1 = Corrected Bridge file generation.
 
 = 2.0.2 = Fixed repetitive Evanto license messages.
 

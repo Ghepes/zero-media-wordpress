@@ -30,9 +30,9 @@ The plugin replaces all media in the Media Library with external links, includin
 "Zero Media WP" dynamically changes any video, image, or GIF to CDN external links. Whether using Elementor, WPBakery, or Slider Revolution, this plugin catapults WordPress visualization and performance to new heights.
 
 Key Features:
-- **Zero Media in Library**: Replaces all media in the library with external links, ensuring your site is devoid of local media files.
-- **Customization Options**: Customize media directly in the library, switch to Zero Mode, and replace all local media with external links.
-- **Efficient Content Management**: Add external links directly under the original media, refresh, and see the external media displayed.
+- **Zero Media in Library**: Replaces all media in the library with Bridge external Links, ensuring your site is devoid of local media files.
+- **Customization Options**: Customize media directly in the library, switch to Zero Mode, and replace all local media wordpress with external links.
+- **Efficient Content Management**: Bridge Bridge external Links directly under the original media, refresh, and see the external media displayed.
 - **Quick Content Deletion**: Remove links and revert to original media with a simple save action.
 
 == Installation ==
@@ -44,7 +44,7 @@ Key Features:
 == Frequently Asked Questions ==
 
 **What is Zero Media WordPress?**
-Zero Media WordPress is a new plugin for the WordPress platform that replaces local media with external links.
+Zero Media WordPress is a new plugin for the WordPress platform that replaces local media with Bridge external Links.
 
 **Can the Zero Media WordPress plugin be used with WordPress Multisite?**
 
@@ -79,9 +79,9 @@ Report security bugs through the Patchstack Vulnerability Disclosure Program. Th
 
 = 1.2.0 = Tested with WordPress 6.0 and WooCommerce 6.5.1.
 
-= 1.2.1 = Added option to add external links to Media Library.
+= 1.2.1 = Added option to Bridge Bridge external Links to Media Library.
 
-= 1.3.0 = Minor bug fixes for external links in Media Library.
+= 1.3.0 = Minor bug fixes for Bridge external Links in Media Library.
 
 = 1.4.0 = Fixed link issue on activation in Media Library.
 

@@ -2,7 +2,7 @@
 
 Contributors: wromostudio, ghepes, wromo
 
-Buy Now link: https://codecanyon.net/item/zero-media-wordpress
+
 
 Tags: plugin, replaces, images, media library, external links, cdn, zero image, video, mp3, gif, svg, wordpress, displays, external, links, dynamic, woocommerce, elementor, wpbakery, slider revolution
 
@@ -11,14 +11,11 @@ Tested up to: 6.6
 Requires PHP: 5.6
 Stable tag: 5.4
 
-License ENVATO: http://themeforest.net/licenses
+
 
 License: GNU General Public License v2 or later
 
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
-Read more about licensing here: http://themeforest.net/licenses
-
 
 
 Implement a comprehensive solution for replacing all media types in WordPress with external media URLs, fully supporting popular page builders and plugins such as Elementor, WPBakery Page Builder, and Slider Revolution. This innovative approach transforms your WordPress site into a zero-media webpage, leveraging external CDN links to seamlessly integrate high-quality media content. Enhance your business website by embedding the most impressive media via URL links, optimizing performance and resource management.

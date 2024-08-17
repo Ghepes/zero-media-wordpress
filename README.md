@@ -2,71 +2,67 @@
 
 Contributors: wromostudio, ghepes, wromo
 
+Buy Now link: https://studio.wromo.com
 
+Tags: plugin, replaces, files, media library, external links, cdn, zero media, video, mp3, gif, bridge, wordpress, displays external media, external, links, dynamic, woocommerce, elementor, wpbakery, slider revolution
 
-Tags: plugin, replaces, images, media library, external links, cdn, zero image, video, mp3, gif, svg, wordpress, displays, external, links, dynamic, woocommerce, elementor, wpbakery, slider revolution
+Requires at least: 5.0 Tested up to: 6.6 Requires PHP: 5.6 Stable tag: 5.4
 
-Requires at least: 5.0
-Tested up to: 6.6
-Requires PHP: 5.6
-Stable tag: 5.4
-
-
+License WROMO: https://github.com/ghepes/zero-media-wordpress/LICENSE
 
 License: GNU General Public License v2 or later
 
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
+Read more about licensing here: http://studio.wromo.com/licenses
 
-Implement a comprehensive solution for replacing all media types in WordPress with external media URLs, fully supporting popular page builders and plugins such as Elementor, WPBakery Page Builder, and Slider Revolution. This innovative approach transforms your WordPress site into a zero-media webpage, leveraging external CDN links to seamlessly integrate high-quality media content. Enhance your business website by embedding the most impressive media via URL links, optimizing performance and resource management.
+Description: Implement a comprehensive solution for replacing all media types in WordPress with external media URLs, fully supporting popular page builders and plugins such as Elementor, WPBakery Page Builder, and Slider Revolution. This innovative approach transforms your WordPress site into a zero-media webpage, leveraging external CDN links to seamlessly integrate high-quality media content. Enhance your business website by embedding the most impressive media via URL links, optimizing performance and resource management.
 
 == Description ==
 
-The plugin replaces all media in the Media Library with external links, including images, videos, GIFs, PDFs, SVGs, PNGs, JPGs, JPEGs, ICOs, ZIPs, MP3s, and MP4s. This ensures your website is free from locally stored media.
+The plugin replaces all media in the Media Library with external links, including images, videos, GIFs, PDFs, Bridges, PNGs, JPGs, JPEGs, ICOs, ZIPs, MP3s, and MP4s. This ensures your website is free from locally stored media.
 
 "Zero Media WP" dynamically changes any video, image, or GIF to CDN external links. Whether using Elementor, WPBakery, or Slider Revolution, this plugin catapults WordPress visualization and performance to new heights.
 
 Key Features:
-- **Zero Media in Library**: Replaces all media in the library with Bridge external Links, ensuring your site is devoid of local media files.
-- **Customization Options**: Customize media directly in the library, switch to Zero Mode, and replace all local media wordpress with external links.
-- **Efficient Content Management**: Bridge Bridge external Links directly under the original media, refresh, and see the external media displayed.
-- **Quick Content Deletion**: Remove links and revert to original media with a simple save action.
 
+Zero Media in Library: Replaces all media in the library with external links, ensuring your site is devoid of local media files.
+Customization Options: Customize media directly in the library, switch to Zero Mode, and replace all local media with external links.
+Efficient Content Management: Add external links directly under the original media, refresh, and see the external media displayed.
+Quick Content Deletion: Remove links and revert to original media with a simple save action.
 == Installation ==
-1. Unzip the plugin archive on your computer.
-2. Upload `zero-media-wordpress` directory to your `/wp-content/plugins/` directory.
-3. Activate the plugin through the 'Plugins' menu in WordPress.
-4. After installation, WordPress redirects you to the Zero Media WordPress landing page.
 
+Unzip the plugin archive on your computer.
+Upload zero-media-wordpress directory to your /wp-content/plugins/ directory.
+Activate the plugin through the 'Plugins' menu in WordPress.
+After installation, WordPress redirects you to the Zero Media WordPress landing page.
 == Frequently Asked Questions ==
 
-**What is Zero Media WordPress?**
-Zero Media WordPress is a new plugin for the WordPress platform that replaces local media with Bridge external Links.
+What is Zero Media WordPress? Zero Media WordPress is a new plugin for the WordPress platform that replaces local media with external links.
 
-**Can the Zero Media WordPress plugin be used with WordPress Multisite?**
-
-Yes!
-
-**Is this plugin compatible with PHP 8?**
+Can the Zero Media WordPress plugin be used with WordPress Multisite?
 
 Yes!
 
-**Is it safe to use this plugin on a live website?**
+Is this plugin compatible with PHP 8?
+
+Yes!
+
+Is it safe to use this plugin on a live website?
 
 Yes, the plugin only changes media links to external sources without altering your website content.
 
-**What else can the plugin change apart from images?**
+What else can the plugin change apart from images?
 
 The plugin can replace all media in the library, including PDFs, videos, GIFs, ZIP files, MP3s, and MP4s.
 
-**How can I report security bugs?**
+How can I report security bugs?
 
 Report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team will help validate, triage, and handle any security vulnerabilities.
 
 == Screenshots ==
 
-== Changelog ==
-= 1.0 = Initial release.
+== Changelog == = 1.0 = Initial release.
 
 = 1.0.1 = Tested with WordPress 5.8 and WooCommerce 5.5.1.
 
@@ -76,9 +72,9 @@ Report security bugs through the Patchstack Vulnerability Disclosure Program. Th
 
 = 1.2.0 = Tested with WordPress 6.0 and WooCommerce 6.5.1.
 
-= 1.2.1 = Added option to Bridge Bridge external Links to Media Library.
+= 1.2.1 = Added option to add external links to Media Library.
 
-= 1.3.0 = Minor bug fixes for Bridge external Links in Media Library.
+= 1.3.0 = Minor bug fixes for external links in Media Library.
 
 = 1.4.0 = Fixed link issue on activation in Media Library.
 
@@ -155,6 +151,10 @@ Report security bugs through the Patchstack Vulnerability Disclosure Program. Th
 = 2.0.7 = Developer version, not for public installation.
 
 = 2.0.8 = Fixed 'for' license error.
+
+= 2.0.9 = Fixed 'for' all license error.
+
+= 2.1.0 = Fixed 'for' change license server to wromo license with google login license user dashboard.
 
 
 

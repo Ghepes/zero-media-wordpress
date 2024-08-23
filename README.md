@@ -1,14 +1,25 @@
-=== Zero Media WordPress ===
+== Zero Media Wordpress ==
+Contributors: Wromo, NextWromo, Ghepes,
+Donate link: 
+Buy Now link: https://studio.wromo.com
+Tags: media, library,external CDN links,optimizing performance,replacing all media,external media URLs
+Requires at least: 6.6
+Tested up to: 6.6.1
+Requires PHP: 5.6
+Stable tag: 5.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
+Implement a comprehensive solution for replacing all media types in WordPress with external media URLs, fully supporting popular page builders.
+
+== Description ==
 Contributors: wromostudio, ghepes, wromo
 
-Buy Now link: https://studio.wromo.com
+Buy Now link: https://studio.wromo.com/
 
-Tags: plugin, replaces, files, media library, external links, cdn, zero media, video, mp3, gif, bridge, wordpress, displays external media, external, links, dynamic, woocommerce, elementor, wpbakery, slider revolution
+Tags: plugin, replaces, images, media library, external links, cdn, zero image, video, mp3, gif, Bridge, wordpress, displays, external, links, dynamic, woocommerce, elementor, wpbakery, slider revolution
 
 Requires at least: 5.0 Tested up to: 6.6 Requires PHP: 5.6 Stable tag: 5.4
-
-License WROMO: https://github.com/ghepes/zero-media-wordpress/LICENSE
 
 License: GNU General Public License v2 or later
 
@@ -60,8 +71,58 @@ How can I report security bugs?
 
 Report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team will help validate, triage, and handle any security vulnerabilities.
 
+== Installation ==
+1. Unzip the plugin archive on your computer
+2. Upload `zero-media-wordpress` directory to yours `/wp-content/plugins/` directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. The 'Zero Media Wordpress Info' menu or the option to set and add external media is in the Wordpress Media Library.
+
+== Setings External Media Files to Media Library WP ==
+
+1. Enter in the menu - Media Library Wordpress from the admin Menu.
+2. Go to images in the media library.
+3. Press the Media Bridge generator button. (The message Media File has been generated successfully. - appears)
+4. Go back in Media Library - and choose Media File generated and enter in the File, now you can add External Urls in the section where it says attach External URL.
+5. Press the button where it says, Save External Media File. (The message External Media File has been Saved successfully. - appears)
+
+
+
+== Frequently Asked Questions ==
+**What is Zero Media Wordpress? **
+Zero Media Wordpress is a brand-new for the WordPress platform
+
+== Frequently Asked Questions ==
+
+What is Zero Media WordPress? Zero Media WordPress is a new plugin for the WordPress platform that replaces local media with external links.
+
+Can the Zero Media WordPress plugin be used with WordPress Multisite?
+
+Yes!
+
+Is this plugin compatible with PHP 8?
+
+Yes!
+
+Is it safe to use this plugin on a live website?
+
+Yes, the plugin only changes media links to external sources without altering your website content.
+
+What else can the plugin change apart from images?
+
+The plugin can replace all media in the library, including PDFs, videos, GIFs, ZIP files, MP3s, and MP4s.
+
+How can I report security bugs?
+
+Report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team will help validate, triage, and handle any security vulnerabilities.
+
+
+
+
+
 == Screenshots ==
 
+
+== Changelog ==
 == Changelog == = 1.0 = Initial release.
 
 = 1.0.1 = Tested with WordPress 5.8 and WooCommerce 5.5.1.
@@ -156,5 +217,27 @@ Report security bugs through the Patchstack Vulnerability Disclosure Program. Th
 
 = 2.1.0 = Fixed 'for' change license server to wromo license with google login license user dashboard.
 
+= 2.1.1 = Transform Zero Media Wordpress code into modern and complex code.
 
+= 2.1.2 = Add new attribute css style design chameleon.
+
+= 2.1.3 = Exchange view implementation
+
+= 2.2.0 = Fix Incorporation in scripts for generating Bridge templets.
+        = Add Bridge file by Year, month and day.
+        = Add New styles for Admin File
+        = Add virtual Bridge file without a local Template.
+        
+
+
+
+
+
+
+== Upgrade Notice ==
+The upgrade is done according to the plugin, if you are in the license year, you can upgrade to a new version by logging in to your account on the official page www.studio.wromo.com.
+If you don't have an account, you can always register and open a new account on the official website www.studio.wromo.com, and you can check your license every time.
+If you don't have a license or want to renew your license, you can renew it on the official website www.studio.wromo.com.
+
+Thank you!
 

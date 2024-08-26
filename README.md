@@ -1,6 +1,6 @@
 == Zero Media Wordpress ==
 Contributors: Wromo, NextWromo, Ghepes,
-Donate link: 
+
 Buy Now link: https://studio.wromo.com
 Tags: media, library,external CDN links,optimizing performance,replacing all media,external media URLs
 Requires at least: 6.6

@@ -1,3 +1,17 @@
+
+
+[Zero Media Wordpress to Dev.to ](https://dev.to/ghepes/zero-media-wordpress-5el7)
+[Zero Media Wordpress CDN Media File ](https://storage.googleapis.com/media-data-web-glob/index.html)
+[Zero Media Wordpress to get license](https://studio.wromo.com)
+![Next_2_in_1_plugin](https://github.com/user-attachments/assets/d692b8b0-8058-4fa3-8c2c-7bd716845bbc)
+
+
+
+
+
+
+
+
 == Zero Media Wordpress ==
 Contributors: Wromo, NextWromo, Ghepes,
 

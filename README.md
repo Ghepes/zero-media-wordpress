@@ -41,12 +41,14 @@ Zero Media in Library: Replaces all wordpress media with external links, ensurin
 Customization Options: Customize media directly in the library, switch to Zero Mode, and replace all local media with external links.
 Efficient Content Management: Add external links directly under the original media, refresh, and see the external media displayed.
 Quick Content Deletion: Remove links and revert to original media with a simple save action.
+
 == Installation ==
 
 Unzip the plugin archive on your computer.
 Upload zero-media-wordpress directory to your /wp-content/plugins/ directory.
 Activate the plugin through the 'Plugins' menu in WordPress.
 After installation, WordPress redirects you to the Zero Media WordPress landing page.
+
 == Frequently Asked Questions ==
 
 What is Zero Media WordPress? Zero Media WordPress is a new plugin for the WordPress platform that replaces local media with external links.

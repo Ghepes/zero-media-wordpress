@@ -31,13 +31,13 @@ Description: Implement a comprehensive solution for replacing all media types in
 
 == Description ==
 
-The plugin replaces all media in the Media Library with external links, including images, videos, GIFs, PDFs, Bridges, PNGs, JPGs, JPEGs, ICOs, ZIPs, MP3s, and MP4s. This ensures your website is free from locally stored media.
+The plugin replaces all media in the Wordpress Media Library with external links, including videos, images, GIFs, PDFs, Bridges, PNGs, JPGs, JPEGs, ICOs, ZIPs, MP3s, and MP4s. This ensures your website is free from locally stored media.
 
 "Zero Media WP" dynamically changes any video, image, or GIF to CDN external links. Whether using Elementor, WPBakery, or Slider Revolution, this plugin catapults WordPress visualization and performance to new heights.
 
 Key Features:
 
-Zero Media in Library: Replaces all media in the library with external links, ensuring your site is devoid of local media files.
+Zero Media in Library: Replaces all wordpress media with external links, ensuring your site is without local media files.
 Customization Options: Customize media directly in the library, switch to Zero Mode, and replace all local media with external links.
 Efficient Content Management: Add external links directly under the original media, refresh, and see the external media displayed.
 Quick Content Deletion: Remove links and revert to original media with a simple save action.

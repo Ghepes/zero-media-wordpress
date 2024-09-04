@@ -22,7 +22,8 @@ A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
-(IMAGE)
+![image](https://github.com/user-attachments/assets/ec42e12b-fe07-454d-aa4f-17b72607834f)
+
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]

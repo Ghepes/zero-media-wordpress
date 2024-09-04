@@ -10,33 +10,44 @@
 
 
 
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://wromo.imgix.net/zero-media-wordpress/icon_logo/zero-image-wp-256x256_tran.png" alt="Zero media wordpress logo"></a>
+</p>
 
+<h3 align="center">ZERO MEDIA WORDPRESS & GOOGLE CLOUD - CDN Media</h3>
+
+<div class="readme zmw-form-wromo-readmemd" align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+</div>
+
+---
 
 
 
 
 == Zero Media Wordpress ==
-Contributors: Wromo, NextWromo, Ghepes,
 
-Buy Now link: https://studio.wromo.com
-Tags: media, library,external CDN links,optimizing performance,replacing all media,external media URLs
+Contributors: 
+Wromo, NextWromo, Ghepes
+
+Buy Now: https://studio.wromo.com
+
+Tags:
+media, library,external CDN links,optimizing performance,replacing all media,external media URLs
+
 Requires at least: 6.6
+
 Tested up to: 6.6.1
+
 Requires PHP: 5.6
+
 Stable tag: 5.4
-License: GNU General Public License v2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
-Implement a comprehensive solution for replacing all media types in WordPress with external media URLs, fully supporting popular page builders.
-
-== Description ==
-Contributors: wromostudio, ghepes, wromo
-
-Buy Now link: https://studio.wromo.com/
-
-Tags: plugin, replaces, images, media library, external links, cdn, zero image, video, mp3, gif, Bridge, wordpress, displays, external, links, dynamic, woocommerce, elementor, wpbakery, slider revolution
-
-Requires at least: 5.0 Tested up to: 6.6 Requires PHP: 5.6 Stable tag: 5.4
 
 License: GNU General Public License v2 or later
 
@@ -44,20 +55,41 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Read more about licensing here: http://studio.wromo.com/licenses
 
+== Tags ==
+
+plugin, replaces, images, media library, external links, cdn, zero image, video, mp3, gif, Bridge, wordpress, displays, external, links, dynamic, woocommerce, elementor, wpbakery, slider revolution
+
+---
+Buy Now link: https://studio.wromo.com/
+---
+
+---
+== Description ==
+
 Description: Implement a comprehensive solution for replacing all media types in WordPress with external media URLs, fully supporting popular page builders and plugins such as Elementor, WPBakery Page Builder, and Slider Revolution. This innovative approach transforms your WordPress site into a zero-media webpage, leveraging external CDN links to seamlessly integrate high-quality media content. Enhance your business website by embedding the most impressive media via URL links, optimizing performance and resource management.
 
-== Description ==
+
+
+
+
+
+
+---
+== What the plugin do? ==
 
 The plugin replaces all media in the Wordpress Media Library with external links, including videos, images, GIFs, PDFs, Bridges, PNGs, JPGs, JPEGs, ICOs, ZIPs, MP3s, and MP4s. This ensures your website is free from locally stored media.
 
+== Compatibility ==
+
 "Zero Media WP" dynamically changes any video, image, or GIF to CDN external links. Whether using Elementor, WPBakery, or Slider Revolution, this plugin catapults WordPress visualization and performance to new heights.
 
-Key Features:
+== Key Features ==
 
 Zero Media in Library: Replaces all wordpress media with external links, ensuring your site is without local media files.
 Customization Options: Customize media directly in the library, switch to Zero Mode, and replace all local media with external links.
 Efficient Content Management: Add external links directly under the original media, refresh, and see the external media displayed.
 Quick Content Deletion: Remove links and revert to original media with a simple save action.
+
 
 == Installation ==
 
@@ -65,6 +97,8 @@ Unzip the plugin archive on your computer.
 Upload zero-media-wordpress directory to your /wp-content/plugins/ directory.
 Activate the plugin through the 'Plugins' menu in WordPress.
 After installation, WordPress redirects you to the Zero Media WordPress landing page.
+
+---
 
 == Frequently Asked Questions ==
 
@@ -106,43 +140,38 @@ Report security bugs through the Patchstack Vulnerability Disclosure Program. Th
 
 
 
-== Frequently Asked Questions ==
-**What is Zero Media Wordpress? **
-Zero Media Wordpress is a brand-new for the WordPress platform
+== Upgrade Notice ==
 
-== Frequently Asked Questions ==
+The upgrade is done according to the plugin, if you are in the license year, you can upgrade to a new version by logging in to your account on the official page www.studio.wromo.com.
+If you don't have an account, you can always register and open a new account on the official website www.studio.wromo.com, and you can check your license every time.
+If you don't have a license or want to renew your license, you can renew it on the official website www.studio.wromo.com.
 
-What is Zero Media WordPress? Zero Media WordPress is a new plugin for the WordPress platform that replaces local media with external links.
-
-Can the Zero Media WordPress plugin be used with WordPress Multisite?
-
-Yes!
-
-Is this plugin compatible with PHP 8?
-
-Yes!
-
-Is it safe to use this plugin on a live website?
-
-Yes, the plugin only changes media links to external sources without altering your website content.
-
-What else can the plugin change apart from images?
-
-The plugin can replace all media in the library, including PDFs, videos, GIFs, ZIP files, MP3s, and MP4s.
-
-How can I report security bugs?
-
-Report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team will help validate, triage, and handle any security vulnerabilities.
+Thank you!
 
 
+## ⛏️ Built Using <a name = "built_using"></a>
 
+- [Google Cloud CDN Media](https://storage.googleapis.com/media-data-web-glob/index.html/) - Media CDN Cloud
+- [Wordpress.org](https://wordpress.org/) - Wordpress Framework
+- [PHP](https://www.php.net/) - PHP Framework
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript
+- [JQuery](https://jquery.com/) - JQuery
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - CSS
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - HTML
+- [Wromo](https://www.wromo.com/) - Wromo Styles
+- [Bootstrap](https://getbootstrap.com/) - Bootstrap
+- [Wordpress Coding Standards]( https://developer.wordpress.org/coding-standards/) - Wordpress Coding Standards
 
+## ✍️ Authors <a name = "authors"></a>
 
-== Screenshots ==
+- [@Ghepes](https://github.com/ghepes) - Idea & Initial work
 
+- 
+---
 
-== Changelog ==
-== Changelog == = 1.0 = Initial release.
+== Changelog == 
+
+= 1.0 = Initial release.
 
 = 1.0.1 = Tested with WordPress 5.8 and WooCommerce 5.5.1.
 
@@ -248,15 +277,9 @@ Report security bugs through the Patchstack Vulnerability Disclosure Program. Th
         = Add virtual Bridge file without a local Template.
         
 
+---
 
 
 
 
-
-== Upgrade Notice ==
-The upgrade is done according to the plugin, if you are in the license year, you can upgrade to a new version by logging in to your account on the official page www.studio.wromo.com.
-If you don't have an account, you can always register and open a new account on the official website www.studio.wromo.com, and you can check your license every time.
-If you don't have a license or want to renew your license, you can renew it on the official website www.studio.wromo.com.
-
-Thank you!
 

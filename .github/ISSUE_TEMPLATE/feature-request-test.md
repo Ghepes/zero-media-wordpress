@@ -1,9 +1,9 @@
 ---
-name: Feature request
+name: Feature request test
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: 'This will be suggested as the issue '
+labels: documentation
+assignees: Ghepes
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-name: Bug report
+name: Bug report test
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: "[BUG]"
+labels: documentation, enhancement, help wanted, invalid, question
+assignees: Ghepes
 
 ---
 

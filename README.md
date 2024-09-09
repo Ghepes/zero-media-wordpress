@@ -8,14 +8,17 @@
 <br>
 ![Next_2_in_1_plugin](https://github.com/user-attachments/assets/d692b8b0-8058-4fa3-8c2c-7bd716845bbc)
 
-
+<br>
 
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://wromo.imgix.net/zero-media-wordpress/icon_logo/zero-image-wp-256x256_tran.png" alt="Zero media wordpress logo"></a>
 </p>
 
-<h3 align="center">ZERO MEDIA WORDPRESS & GOOGLE CLOUD - CDN Media</h3>
+<h3 align="center">ZERO MEDIA WORDPRESS</h3>
+<h3 align="center">+</h3>
+<h3 align="center">GOOGLE CLOUD - CDN Media</h3>
+<br>
 
 <div class="readme zmw-form-wromo-readmemd" align="center">
 

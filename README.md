@@ -157,6 +157,7 @@ Thank you!
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Google Cloud CDN Media](https://storage.googleapis.com/media-data-web-glob/index.html/) - Media CDN Cloud
+- [Google Cloud API](https://console.cloud.google.com/apis/library) - Cloud API
 - [Wordpress.org](https://wordpress.org/) - Wordpress Framework
 - [PHP](https://www.php.net/) - PHP Framework
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript
@@ -166,6 +167,8 @@ Thank you!
 - [Wromo](https://www.wromo.com/) - Wromo Styles
 - [Bootstrap](https://getbootstrap.com/) - Bootstrap
 - [Wordpress Coding Standards]( https://developer.wordpress.org/coding-standards/) - Wordpress Coding Standards
+- [Icons collection](https://icones.js.org/collection/) - Icones.js Collection
+- 
 
 ## ✍️ Authors <a name = "authors"></a>
 

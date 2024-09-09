@@ -186,15 +186,21 @@ Thank you!
 ## ✍️ Authors <a href="https://github.com/ghepes/" class="zmw-form wromo-authors" name = "authors"></a>
 
 - [@Ghepes](https://github.com/ghepes) - Idea & Development, new ideas or redefinition, Styling, Licensing, finishing and Marketing - Zero Media Wordpress
+
+  
 ## Interest in joining Wromo Team
+
 If you are interested in joining the Wromo team, you are welcome. For everyone there is a place in the Wromo team!
+
 Wromo Team - Always the right choice!
+
 By Iulian Ghepes, Founder of Wromo
 
-- 
+ 
 ---
 
 ### Changelog
+
 - [Changelog](https://raw.githubusercontent.com/Ghepes/zero-media-wordpress/main/Changelog.md) - Changelog.md
 
 

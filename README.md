@@ -195,7 +195,7 @@ By Iulian Ghepes, Founder of Wromo
 ---
 
 ### Changelog
-- [Changelog](https://raw.githubusercontent.com/Ghepes/zero-media-wordpress/main/Changelog.md) - Changelog
+- [Changelog](https://raw.githubusercontent.com/Ghepes/zero-media-wordpress/main/Changelog.md) - Changelog.md
 
 
 

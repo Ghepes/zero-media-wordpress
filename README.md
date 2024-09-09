@@ -129,19 +129,39 @@ How can I report security bugs?
 
 Report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team will help validate, triage, and handle any security vulnerabilities.
 
-== Installation ==
+### Installing
+
+```
 1. Unzip the plugin archive on your computer
 2. Upload `zero-media-wordpress` directory to yours `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
-4. The 'Zero Media Wordpress Info' menu or the option to set and add external media is in the Wordpress Media Library.
+4. The 'Zero Media Wordpress Info' menu or the option to set and add external media is in the Admin Menu. For Setting Media - Go to Wordpress Media Library.
+```
 
-== Setings External Media Files to Media Library WP ==
+== Setings External Media Files in Media Library WP ==
 
-1. Enter in the menu - Media Library Wordpress from the admin Menu.
-2. Go to images in the media library.
-3. Press the Media Bridge generator button. (The message Media File has been generated successfully. - appears)
-4. Go back in Media Library - and choose Media File generated and enter in the File, now you can add External Urls in the section where it says attach External URL.
-5. Press the button where it says, Save External Media File. (The message External Media File has been Saved successfully. - appears)
+```
+  From - Media Library Wordpress ar 3 new section. How you can change, local media with external url media files.
+
+1. Step one - press the 'Generate Media Bridge' button.
+ By Pressing the Media Bridge generator button. A message will appear (Media File has been generated successfully.)
+
+2. Step two - Go back in Media Library - enter in the tab that was generated.
+To add CDN LINKS MEDIA in the 'Add External Media' Section.
+
+3. Step three - copy CDN external links media from Google Cloud CDN. 
+To copy the CDN media link, you must open your browser, go to Google Cloud CDN (Your MEDIA CDN customized link: https://storage.googleapis.com/YOUR-CUSTOM_NAME/index.html )  login with the CDN license received with zero-media-wordpress plugins.
+After you log in to Google Media CDN, you can add new media by dragging the media in the tab page. 
+Where it will generate a global CDN Link for the files you added. 
+Copy the new CDN link that was generated to your media Cloud CDN and return to Wordpress, end add in the 'New Media file that was Generated' in the section 'Add external Media'.
+
+4. The Last Step - Press the button, 'Save External Media File'. A message will appear (External Media File has been Saved successfully.)
+
+
+Congratulations, 
+Now the external media has been successfully added. From now you can use it with all famous wordpress Bilder or with any Slider by choosing external media from 'wordpress media library'. Which have already been added to 'Wordpress Media Library'.
+
+```
 
 
 
@@ -170,9 +190,13 @@ Thank you!
 - [Icons collection](https://icones.js.org/collection/) - Icones.js Collection
 - 
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Authors <a href="https://github.com/ghepes/" class="zmw-form wromo-authors" name = "authors"></a>
 
-- [@Ghepes](https://github.com/ghepes) - Idea & Initial work
+- [@Ghepes](https://github.com/ghepes) - Idea & Development, new ideas or redefinition, Styling, Licensing, finishing and Marketing - Zero Media Wordpress
+## Interest in joining Wromo Team
+If you are interested in joining the Wromo team, you are welcome. For everyone there is a place in the Wromo team!
+Wromo Team - Always the right choice!
+By Iulian Ghepes, Founder of Wromo
 
 - 
 ---

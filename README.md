@@ -22,10 +22,12 @@
 
 <div class="readme zmw-form-wromo-readmemd" align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Status](https://img.shields.io/badge/Zero_Media_Wordpress-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/ghepes/Zero-Media-Wordpress.svg)](https://github.com/ghepes/Zero-Media-Wordpress/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ghepes/Zero-Media-Wordpress.svg)](https://github.com/ghepes/Zero-Media-Wordpress/pulls)
+[![License](https://img.shields.io/badge/License-GPL_2-navy.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+[![License](https://img.shields.io/badge/License-GPL_3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![License](https://img.shields.io/badge/License-WROMO-purple.svg)](https://studio.wromo.com)
 
 </div>
 

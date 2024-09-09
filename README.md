@@ -36,7 +36,7 @@
 
 
 
-== Zero Media Wordpress ==
+## Zero Media Wordpress
 
 Contributors: 
 Wromo, NextWromo, Ghepes
@@ -60,16 +60,16 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Read more about licensing here: http://studio.wromo.com/licenses
 
-== Tags ==
+### Tags
 
 plugin, replaces, images, media library, external links, cdn, zero image, video, mp3, gif, Bridge, wordpress, displays, external, links, dynamic, woocommerce, elementor, wpbakery, slider revolution
 
 ---
-Buy Now link: https://studio.wromo.com/
+### Buy Now link: https://studio.wromo.com/
 ---
 
 ---
-== Description ==
+### Description
 
 Description: Implement a comprehensive solution for replacing all media types in WordPress with external media URLs, fully supporting popular page builders and plugins such as Elementor, WPBakery Page Builder, and Slider Revolution. This innovative approach transforms your WordPress site into a zero-media webpage, leveraging external CDN links to seamlessly integrate high-quality media content. Enhance your business website by embedding the most impressive media via URL links, optimizing performance and resource management.
 
@@ -96,16 +96,9 @@ Efficient Content Management: Add external links directly under the original med
 Quick Content Deletion: Remove links and revert to original media with a simple save action.
 
 
-== Installation ==
-
-Unzip the plugin archive on your computer.
-Upload zero-media-wordpress directory to your /wp-content/plugins/ directory.
-Activate the plugin through the 'Plugins' menu in WordPress.
-After installation, WordPress redirects you to the Zero Media WordPress landing page.
-
 ---
 
-== Frequently Asked Questions ==
+### Frequently Asked Questions
 
 What is Zero Media WordPress? Zero Media WordPress is a new plugin for the WordPress platform that replaces local media with external links.
 
@@ -138,7 +131,7 @@ Report security bugs through the Patchstack Vulnerability Disclosure Program. Th
 4. The 'Zero Media Wordpress Info' menu or the option to set and add external media is in the Admin Menu. For Setting Media - Go to Wordpress Media Library.
 ```
 
-== Setings External Media Files in Media Library WP ==
+### Setings External Media Files in Media Library WP
 
 ```
   From - Media Library Wordpress ar 3 new section. How you can change, local media with external url media files.
@@ -165,7 +158,7 @@ Now the external media has been successfully added. From now you can use it with
 
 
 
-== Upgrade Notice ==
+### Upgrade Notice
 
 The upgrade is done according to the plugin, if you are in the license year, you can upgrade to a new version by logging in to your account on the official page www.studio.wromo.com.
 If you don't have an account, you can always register and open a new account on the official website www.studio.wromo.com, and you can check your license every time.

@@ -281,6 +281,7 @@ Thank you!
         = Add New styles for Admin File
         = Add virtual Bridge file without a local Template.
         
+= 2.2.1 = Added admin dashboard all in one setting template.
 
 ---
 

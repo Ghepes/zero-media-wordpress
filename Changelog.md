@@ -101,11 +101,8 @@
 = 2.1.3 = Exchange view implementation
 
 = 2.2.0 = Fix Incorporation in scripts for generating Bridge templets.
-
         = Add Bridge file by Year, month and day.
-        
-        = Add New styles for Admin File
-        
+        = Add New styles for Admin File.
         = Add virtual Bridge file without a local Template.
         
 = 2.2.1 = Added admin dashboard all in one setting template.

@@ -108,7 +108,7 @@
 = 2.2.1 = Added admin dashboard all in one setting template.
 
 = 2.2.2 = Added the option olso to change the old images with external link. Without bridge generator.
- (Attention: it is preferable to use the bridge media generator, for the spped website. No local media through the bridge).
+ (Attention: it is preferable to use the bridge media generator, for the speed boost website. No local media through the bridge).
  
 
 ---

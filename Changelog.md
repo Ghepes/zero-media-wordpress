@@ -114,7 +114,7 @@
 
 = 2.2.4 = Added storage atomation. 
 
-= 2.2.5 = TODO - if Wromo Bridge mode is faster or if the Offload option is faster ... by Domain speed!!!
+= 2.2.5 = TODO - if Wromo Bridge mode is faster or if the Offload option is faster ... by Website Domain speed!!!
 
 = 2.2.6 = 
 

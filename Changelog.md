@@ -109,6 +109,19 @@
 
 = 2.2.2 = Added the option olso to change the old images with external link. Without bridge generator.
  (Attention: it is preferable to use the bridge media generator, for the speed boost website. No local media through the bridge).
- 
+
+= 2.2.3 = Added js, css end fonts dinamic url.
+
+= 2.2.4 = Added storage atomation. 
+
+= 2.2.5 = TODO - if Wromo Bridge mode is faster or if the Offload option is faster ... by Domain speed!!!
+
+= 2.2.6 = 
+
+= 2.2.7 =
+
+= 2.2.8 =
+
+= 2.2.9 =
 
 ---

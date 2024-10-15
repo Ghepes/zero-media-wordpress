@@ -1,128 +1,236 @@
-### Changelog
+<!doctype html>
 
-= 1.0 = Initial release.
+<html lang="en" class="font-sans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-= 1.0.1 = Tested with WordPress 5.8 and WooCommerce 5.5.1.
+  <title>Zero Media Wordpress changelog</title>
+  <meta name="description" content="Zero Media Wordpress changelog">
+  <meta name="author" content="Changelog Zero Media Wordpress">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
 
-= 1.0.2 = Tested with WordPress 5.8.1, WooCommerce 5.7.1, PHP 8.
+<body>
+<div class="zmw-main-content">
+    <!-- Banner integration -->
+<div class="zmw-banner mb-6">
+                <div class="zmw-banner-images" style="display: flex;">
+                    <img 
+                        width="2000" 
+                        src="<?php echo esc_url(plugin_dir_url(dirname(__FILE__)) . 'zero-media-wordpress-plugin-2000x250.svg'); ?>" 
+                        alt="Banner 1" 
+                        style="width: 100%; max-width: 2000px; height: auto !important;" 
+                    />
+                </div>
+            </div>
+  <section class="w-full max-w-5xl px-2 py-6 md:py-12 mx-auto text-center">
+    <h1 class="text-3xl font-bold">
+      Changelog Zero Media Wordpress
+    </h1>
 
-= 1.0.3 = Fixed missing image extensions.
+    <p class="mt-3 text-xl text-gray-600 md:text-2xl">
+      Find all improvemements here.
+    </p>
+  </section>
 
-= 1.2.0 = Tested with WordPress 6.0 and WooCommerce 6.5.1.
+  <section class="px-2 py-12 md:mt-12 bg-gradient-to-b from-gray-50 to-white">
+  <ul class="relative w-full max-w-5xl mx-auto">
+    <span class="absolute bottom-0 left-0 hidden w-1 rounded bg-gray-200/60 top-3 translate-x-2 md:block" aria-hidden="true"></span>
 
-= 1.2.1 = Added option to add external links to Media Library.
+    <li class="flex flex-col items-start md:flex-row">
+      <h3 class="flex items-center w-full mb-3 space-x-3 md:w-1/3">
+        <span class="z-10 hidden block w-5 h-5 bg-white border-4 border-gray-300 rounded-full md:block"></span>
+        <time datetime="2023-03-10" class="text-xl font-semibold tracking-tight text-gray-800">Initial Release</time>
+      </h3>
+      <div class="w-full space-y-2 md:w-2/3">
+        <p><span class="inline-block px-2 py-1 text-sm font-medium leading-none text-green-700 rounded-full bg-gradient-to-br from-green-200 to-green-100">v1.0</span></p>
+        <p class="text-gray-700">Initial release.</p>
 
-= 1.3.0 = Minor bug fixes for external links in Media Library.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.0.1</span></p>
+        <p class="text-gray-700">Tested with WordPress 5.8 and WooCommerce 5.5.1.</p>
 
-= 1.4.0 = Fixed link issue on activation in Media Library.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.0.2</span></p>
+        <p class="text-gray-700">Tested with WordPress 5.8.1, WooCommerce 5.7.1, PHP 8.</p>
 
-= 1.5.0 = Fixed bug replacing image names with .png or .jpg in Media Library.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.0.3</span></p>
+        <p class="text-gray-700">Fixed missing image extensions.</p>
+      </div>
+    </li>
 
-= 1.6.0 = Added Bridge generator to Media Library.
+    <li class="flex flex-col items-start mt-20 md:flex-row">
+      <h3 class="flex items-center w-full mb-3 space-x-3 md:w-1/3">
+        <span class="z-10 hidden block w-5 h-5 bg-white border-4 border-gray-300 rounded-full md:block"></span>
+        <time datetime="2023-02-17" class="text-xl font-semibold tracking-tight text-gray-800">Feature Updates</time>
+      </h3>
+      <div class="w-full space-y-2 md:w-2/3">
+        <p><span class="inline-block px-2 py-1 text-sm font-medium leading-none text-green-700 rounded-full bg-gradient-to-br from-green-200 to-green-100">v1.2.0</span></p>
+        <p class="text-gray-700">Tested with WordPress 6.0 and WooCommerce 6.5.1.</p>
 
-= 1.6.1 = Fixed Bridge generator issues.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.2.1</span></p>
+        <p class="text-gray-700">Added option to add external links to Media Library.</p>
 
-= 1.6.2 = Updated Bridge generator functionality.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.3.0</span></p>
+        <p class="text-gray-700">Minor bug fixes for external links in Media Library.</p>
+      </div>
+    </li>
 
-= 1.6.3 = Added Bridge button generator to Media Library.
+    <li class="flex flex-col items-start mt-20 md:flex-row">
+      <h3 class="flex items-center w-full mb-3 space-x-3 md:w-1/3">
+        <span class="z-10 hidden block w-5 h-5 bg-white border-4 border-gray-300 rounded-full md:block"></span>
+        <time datetime="2023-01-24" class="text-xl font-semibold tracking-tight text-gray-800">Bug Fixes & Enhancements</time>
+      </h3>
+      <div class="w-full space-y-2 md:w-2/3">
+        <p><span class="inline-block px-2 py-1 text-sm font-medium leading-none text-green-700 rounded-full bg-gradient-to-br from-green-200 to-green-100">v1.4.0</span></p>
+        <p class="text-gray-700">Fixed link issue on activation in Media Library.</p>
 
-= 1.6.4 = Added JS and CSS for Bridge button generator.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.5.0</span></p>
+        <p class="text-gray-700">Fixed bug replacing image names with .png or .jpg in Media Library.</p>
 
-= 1.6.5 = Fixed WooCommerce image size errors.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.6.0</span></p>
+        <p class="text-gray-700">Added Bridge generator to Media Library.</p>
 
-= 1.7.0 = Enhanced performance and security.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.6.1</span></p>
+        <p class="text-gray-700">Fixed Bridge generator issues.</p>
 
-= 1.7.1 = Adjusted for compatibility with latest WooCommerce and WordPress updates.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.6.2</span></p>
+        <p class="text-gray-700">Updated Bridge generator functionality.</p>
 
-= 1.7.2 = Revised admin menu labels for clarity.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.6.3</span></p>
+        <p class="text-gray-700">Added Bridge button generator to Media Library.</p>
+      
+        <p><span class="inline-block px-2 py-1 text-sm font-medium leading-none text-green-700 rounded-full bg-gradient-to-br from-green-200 to-green-100">v1.6.4</span></p>
+        <p class="text-gray-700">Added JS and CSS for Bridge button generator.</p>
 
-= 1.7.3 = Fixed Media Library CSS button issues.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.6.5</span></p>
+        <p class="text-gray-700">Fixed WooCommerce image size errors.</p>
 
-= 1.7.4 = Minor bug fixes.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.7.0</span></p>
+        <p class="text-gray-700">Enhanced performance and security.</p>
 
-= 1.7.5 = Improved compatibility with all plugins and media.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.7.1</span></p>
+        <p class="text-gray-700">Adjusted for compatibility with latest WooCommerce and WordPress updates.</p>
 
-= 1.7.6 = Minor bug fixes.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.7.2</span></p>
+        <p class="text-gray-700">Revised admin menu labels for clarity.</p>
 
-= 1.7.7 = Security improvements.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.7.3</span></p>
+        <p class="text-gray-700">Fixed Media Library CSS button issues.</p>
 
-= 1.7.8 = Fixed fatal errors.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.7.4</span></p>
+        <p class="text-gray-700">Minor bug fixes.</p>
 
-= 1.7.9 = Made compatible with PHP versions 7.0 to 8.4.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.7.5</span></p>
+        <p class="text-gray-700">Improved compatibility with all plugins and media.</p>
 
-= 1.8.0 = Standardized Bridge button generator in Media Library.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.7.6</span></p>
+        <p class="text-gray-700">Minor bug fixes.</p>
 
-= 1.8.1 = Removed PHP version errors.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.7.7</span></p>
+        <p class="text-gray-700">Security improvements.</p>
 
-= 1.8.2 = Fixed user data generation issues for image name changes.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.7.8</span></p>
+        <p class="text-gray-700">Fixed fatal errors.</p>
 
-= 1.8.3 = Added info image to plugin info page.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.7.9</span></p>
+        <p class="text-gray-700">Made compatible with PHP versions 7.0 to 8.4.</p>
 
-= 1.8.4 = Evanto licensed plugin.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.8.0</span></p>
+        <p class="text-gray-700">Standardized Bridge button generator in Media Library.</p>
 
-= 1.8.5 = Fixed Evanto license errors.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.8.1</span></p>
+        <p class="text-gray-700">Removed PHP version errors.</p>
 
-= 1.8.6 = Added watermarking for unique identifiers in plugin files.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.8.2</span></p>
+        <p class="text-gray-700">Fixed user data generation issues for image name changes.</p>
 
-= 1.8.7 = Implemented callback verification for periodic license and functionality checks.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.8.3</span></p>
+        <p class="text-gray-700">Added info image to plugin info page.</p>
 
-= 1.8.8 = Added JS button for Bridge generator in Media Library.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.8.4</span></p>
+        <p class="text-gray-700">Evanto licensed plugin.</p>
 
-= 1.8.9 = Fixed Bridge generator button issues.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.8.5</span></p>
+        <p class="text-gray-700">Fixed Evanto license errors.</p>
 
-= 1.9.0 = Fixed Bridge generator button styles.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.8.6</span></p>
+        <p class="text-gray-700">Added watermarking for unique identifiers in plugin files.</p>
 
-= 2.0.0 = Fixed Bridge template file issues.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.8.7</span></p>
+        <p class="text-gray-700">Implemented callback verification for periodic license and functionality checks.</p>
 
-= 2.0.1 = Corrected Bridge file generation.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v1.8.8</span></p>
+        <p class="text-gray-700">Added JS button for Bridge generator in Media Library.</p>
 
-= 2.0.2 = Fixed repetitive Evanto license messages.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v1.8.9</span></p>
+        <p class="text-gray-700">Fixed Bridge generator button issues.</p>
 
-= 2.0.3 = Reconfigured Evanto license.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v2.0.0</span></p>
+        <p class="text-gray-700">Fixed Bridge template file issues.</p>
 
-= 2.0.4 = Fixed installation fatal errors.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v2.0.1</span></p>
+        <p class="text-gray-700">Corrected Bridge file generation.</p>
 
-= 2.0.5 = Fixed license issues.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v2.0.2</span></p>
+        <p class="text-gray-700">Fixed repetitive Evanto license messages.</p>
 
-= 2.0.6 = Major code fixes.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v2.0.3</span></p>
+        <p class="text-gray-700">Reconfigured Evanto license.</p>
 
-= 2.0.7 = Developer version, not for public installation.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v2.0.4</span></p>
+        <p class="text-gray-700">Fixed installation fatal errors.</p>
 
-= 2.0.8 = Fixed 'for' license error.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v2.0.5</span></p>
+        <p class="text-gray-700">Fixed license issues.</p>
 
-= 2.0.9 = Fixed 'for' all license error.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v2.0.6</span></p>
+        <p class="text-gray-700">Major code fixes.</p>
 
-= 2.1.0 = Fixed 'for' change license server to wromo license with google login license user dashboard.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v2.0.7</span></p>
+        <p class="text-gray-700">Developer version, not for public installation.</p>
 
-= 2.1.1 = Transform Zero Media Wordpress code into modern and complex code.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v2.0.8</span></p>
+        <p class="text-gray-700">Fixed 'for' license error.</p>
 
-= 2.1.2 = Add new attribute css style design chameleon.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v2.0.9</span></p>
+        <p class="text-gray-700">Fixed 'for' all license error.</p>
 
-= 2.1.3 = Exchange view implementation
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v2.1.0</span></p>
+        <p class="text-gray-700">Fixed 'for' change license server to wromo license with google login license user dashboard.</p>
 
-= 2.2.0 = Fix Incorporation in scripts for generating Bridge templets.
-        = Add Bridge file by Year, month and day.
-        = Add New styles for Admin File.
-        = Add virtual Bridge file without a local Template.
-        
-= 2.2.1 = Added admin dashboard all in one setting template.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v2.1.1</span></p>
+        <p class="text-gray-700">Transform Zero Media Wordpress code into modern and complex code.</p>
 
-= 2.2.2 = Added the option olso to change the old images with external link. Without bridge generator.
- (Attention: it is preferable to use the bridge media generator, for the speed boost website. No local media through the bridge).
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v2.1.2</span></p>
+        <p class="text-gray-700">Add new attribute css style design chameleon.</p>
 
-= 2.2.3 = Added js, css end fonts dinamic url.
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v2.1.3</span></p>
+        <p class="text-gray-700">Exchange view implementation.</p>
 
-= 2.2.4 = Added storage atomation. 
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v2.2.0</span></p>
+        <p class="text-gray-700">Fix incorporation in scripts for generating Bridge templates. Added Bridge file by Year, Month, and Day.</p>
+        <p class="text-gray-700">Add new styles for Admin File and a virtual Bridge file without a local Template.</p>
 
-= 2.2.5 = TODO - if the Wromo Bridge mode is faster or if the Offload option is faster (Wromo Bridge attaches the media via link via the enbended mode through File attached and generated directly in the media) and (Offload is the attachment of scripts via the wp_enqueue_* method).
-Tthe Wromo method replaces the media file image with an embended generated file also in the media that contains 99% lower volume than an media image and transmits the image through this generated file ... Test by Website Domain speed!!!
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v2.2.1</span></p>
+        <p class="text-gray-700">Added admin dashboard all-in-one setting template.</p>
 
-= 2.2.6 = 
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v2.2.2</span></p>
+        <p class="text-gray-700">Added option to change old images with external links without using Bridge generator.</p>
+        <p class="text-gray-700">Added virtual Bridge file without a local Template.</p>
 
-= 2.2.7 =
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v2.2.3</span></p>
+        <p class="text-gray-700">Fix license scripts.</p>
 
-= 2.2.8 =
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-indigo-700 rounded-full bg-gradient-to-br from-indigo-200 to-indigo-100">v2.2.4</span></p>
+        <p class="text-gray-700">Fix License "require_once" to "license-verify.php".</p>
 
-= 2.2.9 =
+        <p><span class="inline-block px-2 py-1 mt-5 text-sm font-medium leading-none text-red-700 rounded-full bg-gradient-to-br from-red-200 to-red-100">v2.2.6</span></p>
+        <p class="text-gray-700">Fix admin dashboard docs scripts and CSS, added gif and image to admin dashboard page, and added new chameleon CSS style.</p>
+        <p class="text-gray-700">Added admin dashboard page "Welcome, Bridge Media, License verify, Changelog".</p>
+      </div>
+    </li>
+  </ul>
+</section>
 
----
+</body>
+</html>

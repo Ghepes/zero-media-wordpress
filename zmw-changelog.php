@@ -18,7 +18,7 @@
                 <div class="zmw-banner-images" style="display: flex;">
                     <img 
                         width="2000" 
-                        src="<?php echo esc_url(plugin_dir_url(dirname(__FILE__)) . 'zero-media-wordpress-plugin-2000x250.svg'); ?>" 
+                        src="<?php echo esc_url(plugin_dir_url(dirname(__FILE__)) . 'https://raw.githubusercontent.com/Ghepes/zero-media-wordpress/refs/heads/main/docs/imgs/zero-media-wordpress-plugin-2000x250.svg.png'); ?>" 
                         alt="Banner 1" 
                         style="width: 100%; max-width: 2000px; height: auto !important;" 
                     />

@@ -17,7 +17,7 @@
 
 <h3 align="center">ZERO MEDIA WORDPRESS</h3>
 <h3 align="center">+</h3>
-<h3 align="center">GOOGLE CLOUD - CDN Media</h3>
+<h3 align="center">Any CDN Media URL </h3>
 <br>
 
 <div class="readme zmw-form-wromo-readmemd" align="center">

@@ -101,16 +101,42 @@ Can the Zero Media WordPress plugin be used with WordPress Multisite?
 
 Yes!
 
-Is it more efficient to add external URL links manually?
+Here’s a refined and structured version of your response for clarity and impact:
 
-Yes, it is much more efficient than Automatic plugins, because after our tests it turned out that Automatic plugins have a storage limit request and you are forced
-to switch to CDN mode which is very expensive if you have millions of clicks on images you will end up paying an extremely high price. 
-So we came up with the Zero Media Wordpress manual model where you can directly add the
-image video link in any way you want and you can share the images on different CDN Tools Global which will reach 0 costs in the long term and more security and very efficiently.
-With an Automatic plugin, the server always have to make a request every 30 seconds to the image server and in Manual mode like "Zero Media Wordpress" lists images in embedded
-mode and does not execute any requests to the server, And does not request your wordpress server extra for image requests from remote images cloud.
-It is the most professional method in the long and medium term: no extra costs for images, No requests on the server for images, No limits from image services,
-You can host the images where you want and you are not limited as only a few services that the plugin offer.
+---
+
+### **Manual External URL Links vs. Automatic Plugins: Why Manual is More Efficient**  
+
+Yes, adding external URL links **manually** is far more efficient than relying on automatic plugins. Here’s why:  
+
+1. **Cost-Effective & Scalable**  
+   - Automatic plugins often impose **storage limits**, forcing users to switch to expensive **CDN mode**—which becomes prohibitively costly with high traffic (e.g., millions of image clicks).  
+   - With **Zero Media WordPress (Manual Mode)**, you directly embed image/video links **without storage limits** and can leverage **free or low-cost global CDNs**, reducing long-term costs to **near zero**.  
+
+2. **No Unnecessary Server Requests**  
+   - Automatic plugins **ping the image server every 30 seconds**, creating unnecessary load.  
+   - Manual embedding (e.g., `<img src="https://your-cdn.com/image.jpg">`) **eliminates extra requests**—your WordPress server isn’t burdened with fetching remote images.  
+
+3. **Full Control & Flexibility**  
+   - Host images **anywhere** (e.g., Cloudflare R2, BunnyCDN, Backblaze) without being locked into a plugin’s limited supported services.  
+   - Avoid restrictions like **API quotas** or forced migrations when hitting plugin limits.  
+
+4. **Performance & Security**  
+   - Embedded links load **directly from the CDN**, reducing latency.  
+   - No dependency on third-party plugin servers, minimizing **downtime risks**.  
+
+### **The Professional Choice for Long-Term Efficiency**  
+- **Zero extra costs** for image hosting.  
+- **Zero unnecessary server requests**.  
+- **Zero limits** from plugin providers.  
+
+By adopting **manual external URL embedding**, you gain **full control, scalability, and cost efficiency**—critical for high-traffic sites.  
+
+---
+
+### **Key Zero Media Wordpress**  
+✅ **Manual = Freedom** (use any CDN, no vendor lock-in).  
+✅ **Automatic = Hidden Costs** (storage limits, forced upgrades).  
 
 
 Is this plugin compatible with PHP 8?

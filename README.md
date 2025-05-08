@@ -101,6 +101,18 @@ Can the Zero Media WordPress plugin be used with WordPress Multisite?
 
 Yes!
 
+Is it more efficient to add external URL links manually?
+
+Yes, it is much more efficient than Automatic plugins, because after our tests it turned out that Automatic plugins have a storage limit request and you are forced
+to switch to CDN mode which is very expensive if you have millions of clicks on images you will end up paying an extremely high price. 
+So we came up with the Zero Media Wordpress manual model where you can directly add the
+image video link in any way you want and you can share the images on different CDN Tools Global which will reach 0 costs in the long term and more security and very efficiently.
+With an Automatic plugin, the server always have to make a request every 30 seconds to the image server and in Manual mode like "Zero Media Wordpress" lists images in embedded
+mode and does not execute any requests to the server, And does not request your wordpress server extra for image requests from remote images cloud.
+It is the most professional method in the long and medium term: no extra costs for images, No requests on the server for images, No limits from image services,
+You can host the images where you want and you are not limited as only a few services that the plugin offer.
+
+
 Is this plugin compatible with PHP 8?
 
 Yes!
